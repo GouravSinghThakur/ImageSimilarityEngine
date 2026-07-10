@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Data
+data/raw/
+data/processed/
+data/embeddings/
+data/faiss/
+
+# Models (if large)
+models/*.pth
+models/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
