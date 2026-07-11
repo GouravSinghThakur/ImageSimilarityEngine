@@ -198,6 +198,9 @@ The app automatically uses CUDA when available. If it runs on CPU, search will s
 
 Install PyTorch separately if the default package resolution does not match your Python or CUDA version.
 
+### Datasetlink: <href>https://www.kaggle.com/datasets/liucong12601/stanford-online-products-dataset</href>
+
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
